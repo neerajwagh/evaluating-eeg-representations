@@ -1,10 +1,21 @@
 # evaluating-eeg-representations
 Resources for the paper titled "Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts". Accepted at NeurIPS 2022.
 
-ArXiv preprint - https://arxiv.org/abs/2209.11233
+**NeurIPS 2022 link** - https://neurips.cc/virtual/2022/poster/52788 
 
-OpenReview - https://openreview.net/forum?id=KRk0lBRPpOC
+**ArXiv preprint** - https://arxiv.org/abs/2209.11233
 
-Code for reproducing results - https://figshare.com/s/2a8eb98b47f050b99b16
+**OpenReview** - https://openreview.net/forum?id=KRk0lBRPpOC
 
-Code for evaluating your own models using your own data - coming soon!
+**Code for reproducing results** - https://figshare.com/s/2a8eb98b47f050b99b16
+
+**Code for evaluating your own models using your own data - coming soon!**
+
+Contact:
+- Neeraj - nwagh2@illinois.edu
+- Yoga (PI) - varatha2@illinois.edu
+
+Citation: 
+```
+Wagh, N., Wei, J., Rawal, S., Berry, B., & Varatharajah, Y. Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts.
+```
