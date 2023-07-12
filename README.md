@@ -13,6 +13,10 @@ Resources for the paper titled "Evaluating Latent Space Robustness and Uncertain
 
 **Code for evaluating your own models using your own data - coming soon!**
 
+**NMT dataset links:**
+- (original) https://dll.seecs.nust.edu.pk/downloads/
+- (re-uploaded) https://drive.google.com/file/d/1jD_AcmfoaIfkOiO5lSU4J6IxHZtalnTk/view
+
 Contact:
 - Neeraj - nwagh2@illinois.edu
 - Yoga (PI) - varatha2@illinois.edu
